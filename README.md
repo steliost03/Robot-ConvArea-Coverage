@@ -13,11 +13,9 @@ The control law implemented is the **r-limited voronoi cell centroid** method.
 
 ## Screenshots
 
-<img src="https://cloud.githubusercontent.com/assets/20325266/23537679/6e8cc8f0-ffd6-11e6-84f3-5585be9b0836.jpg" width="49%">
-<img src="https://cloud.githubusercontent.com/assets/20325266/23537683/755f027e-ffd6-11e6-861a-9768f6cc7252.jpg" width="49%">
+<img src="https://cloud.githubusercontent.com/assets/20325266/23537679/6e8cc8f0-ffd6-11e6-84f3-5585be9b0836.jpg" width="49%"><img src="https://cloud.githubusercontent.com/assets/20325266/23537683/755f027e-ffd6-11e6-861a-9768f6cc7252.jpg" width="49%">
 
-<img src="https://cloud.githubusercontent.com/assets/20325266/23537681/72e2d9b2-ffd6-11e6-9ee0-af295233a2a5.jpg" width="49%">
-<img src="https://cloud.githubusercontent.com/assets/20325266/23537684/76a5783e-ffd6-11e6-8538-da219c29d3d4.jpg" width="49%">
+<img src="https://cloud.githubusercontent.com/assets/20325266/23537681/72e2d9b2-ffd6-11e6-9ee0-af295233a2a5.jpg" width="49%"><img src="https://cloud.githubusercontent.com/assets/20325266/23537684/76a5783e-ffd6-11e6-8538-da219c29d3d4.jpg" width="49%">
 
 
 ## How to run
