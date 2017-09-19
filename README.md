@@ -52,7 +52,7 @@ If the next-iteration centroid changes less than this value for ALL robots, then
 For each robot,the following procedure is executed repeatedly , until the algorithm converges or the iteration limit is reached :
 
 * Calculate the bounded voronoi cell of the robot. The bounded voronoi cell is the  intersection  of the regular (not r-limited)
-voronoi cell with the environment . Please note that in the calculation of the voronoi cell, only the robots that are inside the current
+voronoi cell with the environment . Note that in the calculation of the voronoi cell, only the robots that are inside the current
 robot's communication radius are taken into account.
 
 * Calculate the r-limited voronoi cell of the robot . The r-limited voronoi cell is produced by the intersection of the bounded voronoi
