@@ -68,12 +68,12 @@ with the sensing circle of the robot.
 **BoundedVoronoi()**  
 
 Calculates the regular (not r-limited) voronoi cell for a robot (using an approximate half-plane intersection method) 
-and finds its intersection with the convex environment. This is then named as its bounded voronoi cell
+and finds its intersection with the convex environment. This is then named as its bounded voronoi cell.
 
 
 **form_plane()**  
 
-Approximates a half-plane via a sufficiently large polygon. This function is called by BoundedVoronoi()
+Approximates a half-plane via a sufficiently large polygon. This function is called by BoundedVoronoi().
 
 
 **Control_Law()** 
